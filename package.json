@@ -13,7 +13,7 @@
   "dependencies": {
     "froala-editor": "^2.9.5",
     "froala-images-multi-upload": "git+https://github.com/heymexa/froala-images-multi-upload.git",
-    "jquery": "^1.12.3"
+    "jquery": "^3.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.6.0",
